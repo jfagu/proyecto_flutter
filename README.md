@@ -12,7 +12,12 @@ Este proyecto trabaja las funcionalidades de Firestore y autenticación de Fireb
 
 Pista: Revisar los comentarios TODO
 
+github:
 https://github.com/jfagu/proyecto_flutter
+
+Videos de la prueba de la aplicación:
+https://drive.google.com/drive/u/1/folders/1dijHvv8UIvjKO4yanXhbOb7ugmpsi4DH
+
 
 
 <img src="firebase.gif" width="300" />
